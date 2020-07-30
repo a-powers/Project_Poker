@@ -1,0 +1,105 @@
+{
+	"folders": [
+		{
+			"path": "..\\.vscode"
+		},
+		{
+			"path": "..\\01-Setup-&-Installation"
+		},
+		{
+			"path": "..\\02-Welcome-to-Python"
+		},
+		{
+			"path": "..\\03-Numbers-Booleans-and-Equality"
+		},
+		{
+			"path": "..\\04-Variables"
+		},
+		{
+			"path": "..\\05-Functions"
+		},
+		{
+			"path": "..\\06-Strings-The-Basics"
+		},
+		{
+			"path": "..\\07-Strings-Methods"
+		},
+		{
+			"path": "..\\08-Control-Flow"
+		},
+		{
+			"path": "..\\09-Lists-The-Basics"
+		},
+		{
+			"path": "..\\10-Lists-Iteration"
+		},
+		{
+			"path": "..\\11-Lists-Mutation"
+		},
+		{
+			"path": "..\\12-Lists-Methods"
+		},
+		{
+			"path": "..\\13-Built-in-Functions"
+		},
+		{
+			"path": "..\\14-Tuples"
+		},
+		{
+			"path": "..\\15-Objects-and-References"
+		},
+		{
+			"path": "..\\16-Dictionaries-the-Basics"
+		},
+		{
+			"path": "..\\17-Dictionaries-Iteration"
+		},
+		{
+			"path": "..\\18-Sets"
+		},
+		{
+			"path": "..\\19-Modules"
+		},
+		{
+			"path": "..\\20-Reading-From-and-Writing-To-Files"
+		},
+		{
+			"path": "..\\21-Decorators"
+		},
+		{
+			"path": "..\\22-Classes-the-Basics"
+		},
+		{
+			"path": "..\\23-Classes-Attributes-and-Methods"
+		},
+		{
+			"path": "..\\24-Classes-Magic-Methods"
+		},
+		{
+			"path": "..\\25-Classes-Inheritance"
+		},
+		{
+			"path": "..\\26-Exception-Handling"
+		},
+		{
+			"path": "..\\27-Dates-and-Time"
+		},
+		{
+			"path": "..\\28-The-random-Module"
+		},
+		{
+			"path": "..\\29-Testing-Code-The-Basics"
+		},
+		{
+			"path": "..\\30-Testing-Code-Mocking"
+		},
+		{
+			"path": "."
+		}
+	],
+	"launch": {
+		"configurations": [
+		
+		]
+	}
+}

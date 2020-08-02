@@ -95,9 +95,6 @@
 		},
 		{
 			"path": "."
-		},
-		{
-			"path": "..\\..\\..\\..\\Plotly-Dashboards-with-Dash-master"
 		}
 	],
 	"launch": {
